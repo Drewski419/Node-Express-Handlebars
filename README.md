@@ -4,7 +4,7 @@
 
 [My Link to Heroku](https://enigmatic-everglades-39849.herokuapp.com/)
 
-![Instruction Video](/assets/images/Burgers.webm)
+![Instruction Video](/assets/images/DevBurgers.gif)
 
 
 
