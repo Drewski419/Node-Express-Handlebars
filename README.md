@@ -1,8 +1,8 @@
 # Node Express Handlebars
 
-[Link to webite](https://drewski419.github.io/Node-Express-Handlebars/)
+[My Link to Github](https://drewski419.github.io/Node-Express-Handlebars/)
 
-[Link to internal website](https://enigmatic-everglades-39849.herokuapp.com/)
+[My Link to Heroku](https://enigmatic-everglades-39849.herokuapp.com/)
 
 ![Instruction Video](/assets/images/Burgers.webm)
 
